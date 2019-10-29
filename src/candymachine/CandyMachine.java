@@ -9,6 +9,7 @@ import java.util.Scanner;
  * 
  * @author mlarrubia
  */
+//Grant "The Legend" Archer Period 2 
 public class CandyMachine {
 static Scanner kb = new Scanner(System.in);
     /**
